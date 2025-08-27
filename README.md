@@ -1,6 +1,6 @@
-# DV project Templates
+# 1. DV project Templates
 
-
+-----------------------
 # 🌐[프로젝트명]
 
 > []
@@ -19,3 +19,4 @@
 ## ✨ Verification Results
 
 ## 🔥 Insights
+--------------------------
